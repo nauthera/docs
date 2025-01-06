@@ -34,6 +34,6 @@ We evaluate contributions based on their size and significance. Here’s how we 
 - Early discussions make it easier to collaboratively shape the design and implementation.
 
 ## Best Practices for Contributions
-- Ensure your feature aligns with Nauthera’s vision and design principles.
+- Ensure your feature aligns with Nautheras vision and design principles.
 - Write clear, maintainable code with appropriate documentation.
 - Include relevant tests to validate your changes.
