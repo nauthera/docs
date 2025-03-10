@@ -1,9 +1,10 @@
 ---
-title: My Site
-toc: false
+title: Nauthera
+toc: true
+type: docs
 ---
 
-This is the landing page.
+Welcome to the Nauthera documentation! Here you will find comprehensive guides and documentation to help you get started with Nauthera, as well as support for any issues you may encounter.
 
 ## Explore
 

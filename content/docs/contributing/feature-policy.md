@@ -2,7 +2,7 @@
 title: Feature Policy
 type: docs
 prev: /
-next: docs/folder/
+next: docs/oauth2/device-authorization-grant
 ---
 
 We value and welcome both feature requests and contributions (PRs) that enhance Nauthera. Our community is at the heart of what we do, and your input drives our progress!
