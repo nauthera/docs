@@ -8,7 +8,6 @@ The operator introduces a set of `CustomResourceDefinitions` (CRDs) that allow a
 
 By creating, updating, or deleting these custom resources, administrators can manage the entire lifecycle of their authentication setup, including:
 
-*   **Realms**: Define isolated environments for users, clients, and roles.
 *   **Clients**: Configure OAuth 2.0 / OIDC clients that can request authentication.
 *   **Users and Groups**: Manage user identities and their group memberships (if not using an external LDAP).
 *   **Roles and Mappers**: Define fine-grained permissions and map user attributes.
