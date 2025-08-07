@@ -1,5 +1,5 @@
 ---
-title: OAuth 2.0
+title: OAuth2
 type: folder
 sidebar:
   open: true

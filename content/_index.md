@@ -1,14 +1,19 @@
 ---
-title: Nauthera
-toc: true
-type: docs
+title: "Introduction"
+type: "docs"
+weight: 1
 ---
 
-Welcome to the Nauthera documentation! Here you will find comprehensive guides and documentation to help you get started with Nauthera, as well as support for any issues you may encounter.
+# Introduction to Nauthera
 
-## Explore
+**Nauthera** is a modern, Kubernetes-native authentication management solution that simplifies the configuration and lifecycle of OpenID Connect (OIDC) clients and authentication flows. Leveraging an **operator-based approach**, Nauthera provides automation, governance, and self-service—all while enforcing robust security policies and reducing cognitive load for developers and platform teams.
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+Whether you're a homelab tinkerer, a fast-moving startup, or an enterprise platform team, Nauthera helps you scale authentication securely and efficiently in a Kubernetes-native way.
+
+## Key Advantages
+
+- **Kubernetes-Native Design**: OIDC client configurations are first-class Kubernetes resources.
+- **Operator-Based Automation**: Full lifecycle management of OIDC clients.
+- **Developer-Centric Self-Service**: Frictionless onboarding for developers.
+- **Enterprise-Grade Security**: Enforce org-wide rules with admission controls.
+- **Flexible & Extensible**: Integrate with external IdPs and customize the user experience.
