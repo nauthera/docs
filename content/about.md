@@ -20,9 +20,9 @@ In a modern cloud-native environment, traditional authentication tools often cre
 Nauthera addresses these challenges by treating authentication as a first-class citizen of the Kubernetes ecosystem. By leveraging Custom Resource Definitions (CRDs) and the operator pattern, we provide a seamless, automated, and secure way to manage the entire lifecycle of OIDC clients.
 
 {{< cards >}}
-  {{< card link="../for-teams/developers/" title="For Developers" icon="user" content="Define the clients you need in simple, version-controlled YAML files. Get instant feedback and credentials without ever leaving your terminal." >}}
-  {{< card link="../for-teams/security/" title="For Security Teams" icon="shield-check" content="Define and enforce granular, organization-wide security policies. All client configurations are automatically validated against your rules." >}}
-  {{< card link="../for-teams/platform-teams/" title="For Platform Teams" icon="server" content="Deploy and manage a lightweight, stateless, and scalable authentication platform that integrates seamlessly with your existing Kubernetes tooling." >}}
+  {{< card link="../personas/developers/" title="For Developers" icon="user" content="Define the clients you need in simple, version-controlled YAML files. Get instant feedback and credentials without ever leaving your terminal." >}}
+  {{< card link="../personas/security/" title="For Security Teams" icon="shield-check" content="Define and enforce granular, organization-wide security policies. All client configurations are automatically validated against your rules." >}}
+  {{< card link="../personas/platform-teams/" title="For Platform Teams" icon="server" content="Deploy and manage a lightweight, stateless, and scalable authentication platform that integrates seamlessly with your existing Kubernetes tooling." >}}
 {{< /cards >}}
 
 ## Built for the Cloud-Native World
