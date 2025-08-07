@@ -113,3 +113,16 @@ stateful
 URIs
 ElastiCache
 Memorystore
+os
+url
+const
+rootCmd
+subcommands
+PrintErr
+discoveryUrl
+init
+callout
+lookups
+misconfiguration
+auditable
+frictionlessly
