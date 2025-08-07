@@ -127,3 +127,8 @@ misconfiguration
 auditable
 frictionlessly
 authServerRef
+UIs
+Auditability
+UI
+SDKs
+URI
