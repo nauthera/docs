@@ -16,3 +16,13 @@ lifecycle
 mTLS
 declaratively
 OAuth
+GitOps
+JWT
+LDAP
+OIDC
+PKCE
+Prometheus
+CRD
+CRDs
+</content>
+</write_to_file>
