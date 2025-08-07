@@ -1,9 +1,9 @@
 ---
-title: CRD's
-type: docs
+title: "CRDs"
+type: "docs"
 ---
 
-## Roles
+# Roles
 
 ```mermaid
 graph TD
@@ -135,4 +135,3 @@ spec:
       - totp
       - webauthn
 ```
-
