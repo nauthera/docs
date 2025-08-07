@@ -24,5 +24,3 @@ PKCE
 Prometheus
 CRD
 CRDs
-</content>
-</write_to_file>
