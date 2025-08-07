@@ -1,19 +1,19 @@
 ---
-title: "Introduction"
 type: "docs"
 weight: 1
 ---
 
-# Introduction to Nauthera
+<div align="center">
+  <h1>Welcome to Nauthera</h1>
+  <p>A modern, Kubernetes-native authentication platform designed for security, scalability, and developer self-service.</p>
+</div>
 
-**Nauthera** is a modern, Kubernetes-native authentication management solution that simplifies the configuration and lifecycle of OpenID Connect (OIDC) clients and authentication flows. Leveraging an **operator-based approach**, Nauthera provides automation, governance, and self-service—all while enforcing robust security policies and reducing cognitive load for developers and platform teams.
+Nauthera simplifies the entire lifecycle of OpenID Connect (OIDC) clients in a declarative, GitOps-friendly way. It empowers developers to configure authentication for their applications quickly and safely, while providing security and platform teams with robust tools for governance and policy enforcement.
 
-Whether you're a homelab tinkerer, a fast-moving startup, or an enterprise platform team, Nauthera helps you scale authentication securely and efficiently in a Kubernetes-native way.
+---
 
-## Key Advantages
-
-- **Kubernetes-Native Design**: OIDC client configurations are first-class Kubernetes resources.
-- **Operator-Based Automation**: Full lifecycle management of OIDC clients.
-- **Developer-Centric Self-Service**: Frictionless onboarding for developers.
-- **Enterprise-Grade Security**: Enforce org-wide rules with admission controls.
-- **Flexible & Extensible**: Integrate with external IdPs and customize the user experience.
+{{< cards >}}
+  {{< card link="architecture/" title="Architecture" icon="server" content="Get a high-level overview of the Nauthera platform and its components." >}}
+  {{< card link="design/" title="Design Philosophy" icon="book-open" content="Understand the core concepts and design principles behind Nauthera." >}}
+  {{< card link="architecture/installation/" title="Installation Guide" icon="paper-airplane" content="Follow our step-by-step guide to get Nauthera up and running." >}}
+{{< /cards >}}
